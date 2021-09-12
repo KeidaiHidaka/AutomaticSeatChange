@@ -15,4 +15,6 @@
 Googleスプレッドシートにほとんど同じものを上げました
 以下のリンクから閲覧可能です
 
+(名前は全国名字ランキングから引用しました。)
+
 https://docs.google.com/spreadsheets/d/1KHOp9G_ZCkUPAmRT1PTQtvZidT12RiA38KfvDafyeY0/edit?usp=sharing
